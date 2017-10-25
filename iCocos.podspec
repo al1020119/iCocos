@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "iCocos"
-  s.version      = "1.0.2"
+  s.version      = "1.0.1"
   s.summary      = "A Component for iCocos "
 
   # This description is used to generate tags and improve search results.
