@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "iCocos"
-  s.version      = "1.0.0"
+  s.version      = "1.0.2"
   s.summary      = "A Component for iCocos "
 
   # This description is used to generate tags and improve search results.
@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  s.description  = "一个常用的项目开发组件库@iCocos"
+  s.description  = "一个常用的项目开发组件库，关于基础项目框架搭建与初始化项目的时候，轻量级，可拓展的全局组件@iCocos"
 
   s.homepage     = "https://github.com/al1020119/iCocos"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
